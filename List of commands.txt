@@ -1,0 +1,2 @@
+Run this code to get jupyter set up in anaconda powershell: 
+jupyter notebook --notebook-dir=C:\Users\gutierrez\Documents
